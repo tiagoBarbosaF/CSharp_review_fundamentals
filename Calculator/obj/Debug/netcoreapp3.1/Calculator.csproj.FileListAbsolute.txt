@@ -12,3 +12,17 @@ C:\Users\tiago.farias\dev\Balta\Calculator\obj\Debug\netcoreapp3.1\Calculator.cs
 C:\Users\tiago.farias\dev\Balta\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
 C:\Users\tiago.farias\dev\Balta\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
 C:\Users\tiago.farias\dev\Balta\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\tiago\dev\CSharp_review_fundamentals\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

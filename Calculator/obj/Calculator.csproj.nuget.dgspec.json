@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\tiago.farias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\obj\\",
+        "projectPath": "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tiago.farias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

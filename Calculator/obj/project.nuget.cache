@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aP8r8xrYdxuYE6ZRr8r/KMBGrzo8UiD5XCPGyQI5pZImgv1c/Hvme9JYVb1apTLxLY4AbONLJQnX3KvHwGcCaw==",
+  "dgSpecHash": "uaNiCWlxE1WhXmJ8g0VB4nU1DPltubag2Fle4vruw9vONxcyaj4cUYf6vrH/ZUJ1p8MwmU55qN0krxP1g5D8Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago.farias\\dev\\Balta\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\dev\\CSharp_review_fundamentals\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
